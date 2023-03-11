@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T14:36:46.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RWcxkUUGh1Rft9KUSzMt" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T14:44:37.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8AFJGvc5cwesmyZB6M5h" version="21.0.6" type="github">
   <diagram id="92TR8b31VFcb2hlvG2Pu" name="Page-1">
     <mxGraphModel dx="2518" dy="2106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="120" y="300" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNxOfuCBveWHMs3QbI9o-7" value="Namespace &amp;amp; &lt;br&gt;Identity Federation&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="40" height="80" as="geometry" />
+          <mxGeometry x="250" y="180" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VNxOfuCBveWHMs3QbI9o-9" value="Terraform&lt;br&gt;Backend&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="110" y="610" width="40" height="50" as="geometry" />
@@ -92,7 +92,16 @@
           <mxGeometry x="180" y="500" width="40" height="165" as="geometry" />
         </mxCell>
         <mxCell id="VNxOfuCBveWHMs3QbI9o-22" value="Continuous&lt;br&gt;Delivery" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="600" width="40" height="65" as="geometry" />
+          <mxGeometry x="460" y="600" width="40" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VNxOfuCBveWHMs3QbI9o-25" value="Dynamic&lt;br&gt;Credentials&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VNxOfuCBveWHMs3QbI9o-26" value="OIDC&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="530" y="515" width="40" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VNxOfuCBveWHMs3QbI9o-28" value="Cloud SQL&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="180" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
