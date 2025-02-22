@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="92TR8b31VFcb2hlvG2Pu" name="Page-1">
-    <mxGraphModel dx="2340" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1936" dy="1881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,9 +73,6 @@
         <mxCell id="VNxOfuCBveWHMs3QbI9o-16" value="Resource Hierarchy,&lt;br&gt;Identity, Access&lt;br&gt;&amp;amp; Audit Logging" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="210" width="40" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="VNxOfuCBveWHMs3QbI9o-18" value="Continuous&lt;br&gt;Delivery" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="210" width="40" height="510" as="geometry" />
-        </mxCell>
         <mxCell id="VNxOfuCBveWHMs3QbI9o-19" value="Continuous&lt;br&gt;Delivery" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="330" width="40" height="390" as="geometry" />
         </mxCell>
@@ -109,10 +106,10 @@
         <mxCell id="7W2NdAs1qxxcqkpfnbSC-4" value="OIDC&lt;br&gt;&lt;br&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;direction=east;" parent="1" vertex="1">
           <mxGeometry x="170" y="212.5" width="40" height="287.5" as="geometry" />
         </mxCell>
-        <mxCell id="JRMclQgEzCJZVI_5_Pqq-1" value="Artifact Registry&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+        <mxCell id="JRMclQgEzCJZVI_5_Pqq-1" value="Artifact Registry&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="212.5" width="40" height="177.5" as="geometry" />
         </mxCell>
-        <mxCell id="JRMclQgEzCJZVI_5_Pqq-2" value="Istio&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+        <mxCell id="JRMclQgEzCJZVI_5_Pqq-2" value="Istio&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-240" y="207.5" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
